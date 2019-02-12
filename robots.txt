@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aireini.liuxiaofeng.net/sitemap.xml
